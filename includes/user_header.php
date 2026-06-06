@@ -107,7 +107,7 @@ require_once __DIR__ . '/db.php';
             <ul class="nav-links">
                 <li><a href="<?php echo $base_url; ?>/index.php"><i class="fa-solid fa-house"></i> Home</a></li>
                 <li><a href="<?php echo $base_url; ?>/catalog.php"><i class="fa-solid fa-shirt"></i> Catalog</a></li>
-                <li><a href="<?php echo $base_url; ?>/admin/index.php" class="btn btn-primary" style="padding: 0.5rem 1.2rem; font-size: 0.82rem; border-radius: 8px;">
+                <li><a href="<?php echo $base_url; ?>/admin/index.php" class="btn btn-gold" style="padding: 0.5rem 1.2rem; font-size: 0.82rem; border-radius: 8px;">
                     <i class="fa-solid fa-shield-halved"></i> Admin Portal
                 </a></li>
             </ul>
